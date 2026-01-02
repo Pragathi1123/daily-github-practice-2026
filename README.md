@@ -1,5 +1,5 @@
 # daily-github-practice-2026
-This repository is created to maintain daily fithub contributions.
+This repository is created to maintain daily GitHub contributions.
 ## Day 1
 -Created repository
 -Added readme file
