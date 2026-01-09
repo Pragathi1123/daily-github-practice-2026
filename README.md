@@ -17,3 +17,13 @@ Maintained by Pragathi Manjunath...
 -Understood commits and commit message
 -Practiced markdown basics.
 
+## Day3
+-Created a file inside the folder
+-Understood about the git commands
+     -git add
+     -git commit
+     -git push
+     -git status
+     -git init.
+     
+
