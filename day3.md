@@ -14,3 +14,8 @@
 - git pull
 - git push
 - git pull origin main
+
+## Update on DAY5
+- I revised my previous Git practice
+- I understood hoe editing old files works
+- Git tracks every changes clearly
