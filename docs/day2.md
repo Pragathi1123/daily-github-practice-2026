@@ -1,6 +1,3 @@
-
-
-
 # Day 2-Github Practice
 ## What I Learned
 -Installed VS Code
@@ -9,6 +6,7 @@
 
 ## Notes
 Small steps every day.
+
  # Day 3 - GitHub practice
  ## What I learned today:
  -Opened project in VS code
@@ -19,4 +17,6 @@ Small steps every day.
  - git status
  - git add
  - git commit
- - git push
+ - git push.
+
+ 
