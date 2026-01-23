@@ -1,2 +1,4 @@
 ## Day 9 of Git Practice
-- Revised all the the topics covered before.
+- Learned how the git works.
+- Clearly understood about GIT and GITHUB
+- GIT is a Technology used in GITHUB.
